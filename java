@@ -2,7 +2,7 @@ public class PositiveNegative {
 
     public static void main(String[] args) {
 
-        double number = 12.5;
+        double number = 13;
 
         // true if number is less than 0
         if (number < 0.0)
