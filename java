@@ -15,5 +15,7 @@ public class PositiveNegative {
         // if both test expression is evaluated to false
         else
             System.out.println(number + " is 0.");
+
+        x  = 5
     }
 }
