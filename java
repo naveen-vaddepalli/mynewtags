@@ -16,7 +16,8 @@ public class PositiveNegative {
         else
             System.out.println(number + " is 0.");
 
-        x  = 5
+
+        x  = 7
         y = 7
     }
 }
